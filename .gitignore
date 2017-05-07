@@ -2,3 +2,7 @@
 .mbed
 projectfiles
 *.py*
+.DS_Store
+cscope.out
+default.vim
+tags
